@@ -1,0 +1,14 @@
+head{
+    max-width: 1400px;
+}
+body{
+    max-width: 1400px;
+    min-width: 1300px
+}
+.photo{
+    max-width: 1400px;
+}
+.conteneurun{
+    max-height: 1000px;
+    margin-top: -10px;
+}
